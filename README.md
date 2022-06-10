@@ -1,6 +1,11 @@
-### Hi there 👋
 
-#### It's west
+<!-- <h2 align="center"> -->
+<center>
+  <img src="./Aurio_World_Pinto-removebg-preview.png" ali>
+</center>
+
+<h1>Hello</h1>
+<!-- </h2> -->
 
 <!--
 **AurioPinto/AurioPinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
