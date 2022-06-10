@@ -1,10 +1,12 @@
 
 <!-- <h2 align="center"> -->
 <center>
-  <img src="./Aurio_World_Pinto-removebg-preview.png" ali>
+  <img src="./Aurio_code_Pinto-removebg-preview.png" ali>
 </center>
 
-<h1>Hello</h1>
+<h1 align="center">Hello</h1>
+
+<h1 align='center'>FullStack | Telecommunication Engineer</h1>
 <!-- </h2> -->
 
 <!--
