@@ -1,8 +1,9 @@
 
 <!-- <h2 align="center"> -->
+
 <center>
-  <img src="./Aurio_code_Pinto-removebg-preview.png" ali>
-</center>
+  <img  src="./Aurio_code_Pinto-removebg-preview.png" ali>
+
 
 <h1 align="center">Hello</h1>
 
