@@ -1,3 +1,11 @@
+<head>
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+</head>
+
+<div class='main'>
 
 <!-- <h2 align="center"> -->
 
@@ -24,3 +32,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
+
+<style>
+  .main{
+    min-height: 100vh;
+    background-image: url("./bg4.png");
+    animate:animate__lightSpeedInRight
+    display: block;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto; 
+    background-position: center;
+   background-repeat: no-repeat;
+   background-size: contain;
+
+  }
+</style>
