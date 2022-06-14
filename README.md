@@ -3,19 +3,6 @@
     rel="stylesheet"
     href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
   />
-
-  <style>
-  /* .main{
-    min-height: 100vh;
-    background-image: url("./bg4.png");
-    display: block;
-    margin: 0 auto; 
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: contain;
-
-  } */
-</style>
 </head>
 
 <div class='main'>
