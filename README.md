@@ -5,18 +5,16 @@
   />
 
   <style>
-  .main{
+  /* .main{
     min-height: 100vh;
     background-image: url("./bg4.png");
     display: block;
-    width: 100%;
-    height: 100%;
     margin: 0 auto; 
     background-position: center;
-   background-repeat: no-repeat;
-   background-size: contain;
+    background-repeat: no-repeat;
+    background-size: contain;
 
-  }
+  } */
 </style>
 </head>
 
@@ -24,8 +22,15 @@
 
 <!-- <h2 align="center"> -->
 
-<center>
+<br>
+<p align='center'>
+<img src='./Aurio_code_Pinto-removebg-preview.png'>
+
+</p>
+
+<!-- <center>
   <img  src="./Aurio_code_Pinto-removebg-preview.png" ali>
+</center> -->
 
 
 <h1 align="center">Hello</h1>
