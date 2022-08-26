@@ -22,7 +22,7 @@
 
 <h1 align="center">你好 | Hello | Olá</h1>
 
-<h1 align='center'>FullStack | Telecommunication Engineer</h1>
+<h1 align='center'> Software Engineer</h1>
 
 
 </div>
